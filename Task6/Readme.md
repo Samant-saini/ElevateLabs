@@ -1,23 +1,25 @@
-# Bank Account Simulation
+# Java GUI – ToDo App
 
 ## 📋 Description
-A simple Java-based simulation of a bank account system that allows users to perform basic operations such as depositing and withdrawing money. This project demonstrates core Object-Oriented Programming (OOP) concepts.
+A simple desktop To-Do List application built using Java Swing. This GUI app allows users to add and delete tasks, demonstrating the basics of building interactive desktop applications.
 
 ## ✨ Features
-- Deposit money
-- Withdraw money
-- Display current account balance
-- Simulate basic transactions
+- Add new tasks
+- Delete selected tasks
+- Graphical User Interface (GUI) using Java Swing
 
 ## 🛠 Technologies Used
-- Language: Java
-- IDE: VS Code / IntelliJ
-- Tools: Terminal / Command Prompt
+- Java
+- Java Swing (JFrame, JButton, JTextField, JList)
+- IDE: IntelliJ IDEA CE / Eclipse
 
 ## 🚀 How to Run
 
-1. Clone this repository or copy the `.java` file into your local machine.
-2. Open the terminal or command prompt in the project directory.
-3. Compile the Java program:
+1. Clone this repository or copy the Java file to your local machine.
+2. Open the file in IntelliJ IDEA or Eclipse.
+3. Run the Java program from your IDE.
+
+> If using terminal:
    ```bash
-   javac BankAccount.java
+   javac TodoApp.java
+   java TodoApp
